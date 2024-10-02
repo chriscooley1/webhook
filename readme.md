@@ -1,3 +1,3 @@
 #In Class Demo
 
-New Anything
+ New Anything
